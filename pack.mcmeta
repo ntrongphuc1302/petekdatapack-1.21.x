@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": {
+      "min_inclusive": 5,
+      "max_inclusive": 48
+    },
+    "description": "\u00A74PeteK\u00A77's Datapack 1.21.\u00A74x"
+  }
+}
